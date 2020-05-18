@@ -1,2 +1,0 @@
-# HDAC Friday Node Docker
-
