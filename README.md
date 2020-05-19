@@ -49,3 +49,5 @@ cd friday/
 - https://docs.hdac.io
 - https://github.com/hdac-io/friday
 - https://github.com/hdac-io/launch
+- https://probe.alpha.hdac.io/ - 블록 익스플로러 
+- http://faucet.alpha.hdac.io/ - 테스트용 토큰 받기
