@@ -1,0 +1,10 @@
+#!/bin/bash
+
+NAME=${1}
+
+if [ -z "$NAME" ]; then
+    echo "please input your container name";
+    exit;
+fi
+
+docker exec -it $NAME /bin/bash
